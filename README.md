@@ -12,15 +12,15 @@ or if you would like to add on to it and make it your own:
 
 Dependencies include:
 
-### Express v4.17.1
-### Socket.io v3.0.4
-### bad-words v3.0.4
+##### Express v4.17.1
+##### Socket.io v3.0.4
+##### bad-words v3.0.4
 Ofcourse bad-words is optional, it is used to make it a G-rated app instead of R-rated!
 
 Other dependencies are brought in via cdn include:
 
-### mustache.min.js v3.0.1
-### moment.min.js v2.22.2
-### qs.min.js v6.6.0
+##### mustache.min.js v3.0.1
+##### moment.min.js v2.22.2
+##### qs.min.js v6.6.0
 
 
